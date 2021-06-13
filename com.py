@@ -72,7 +72,7 @@ from_path = 'media.json'  # eta change korte hobe
 done = []
 from github import Github
 
-github = Github('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')
+github = Github('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')
 repo = github.get_repo('human-netizen/mesBot')
 done = read_fun_list('done.txt')
 big_file = open(from_path)
