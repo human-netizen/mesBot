@@ -2,6 +2,5 @@ requests==2.22.0
 mega.py==1.0.8
 clipboard==0.0.4
 beautifulsoup4==4.9.3
-mega==0.2.11
 PyGithub==1.55
 simplejson==3.17.2
